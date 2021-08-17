@@ -1,0 +1,51 @@
+import React from "react";
+import { Route, Redirect } from "react-router-dom";
+import { Signin } from "../pages";
+
+export function IsUserRedirect({ user, loggedInPath, children, ...restProps }) {
+  return (
+    <Route
+      {...restProps}
+      render={() => {
+        if (!user) {
+          return children;
+        }
+
+        if (user) {
+          return (
+            <Redirect
+              to='/browse'
+            />
+          );
+        }
+        return null;
+      }}
+    />
+  );
+}
+
+export function ProtectedRoute({ user, children, ...rest }) {
+  return (
+    <Route
+      {...rest}
+      render={({ location }) => {
+        if (user) {
+          return children;
+        }
+
+        if (!user) {
+          return (
+            <Redirect
+              to={{
+                pathname: "signin",
+                state: { from: location },
+              }}
+            />
+          );
+        }
+
+        return null;
+      }}
+    />
+  );
+}
