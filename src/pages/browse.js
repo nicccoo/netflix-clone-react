@@ -1,8 +1,14 @@
-import React from 'react'
-import * as ROUTES from '../constants/routes'
+import React from "react";
+import  useContent  from "../hooks/use-content";
+import { BrowseContainer } from "../containers/browse";
+import selectionFilter from "../utils/selection-filter";
 
 export default function Browse() {
-    return (
-        <a href={ROUTES.HOME}>VOLVE CAJETA</a>
-    )
-};
+  const { series } = useContent("series");
+  const { films } = useContent("films");
+
+  const slides = selectionFilter({ series, films });
+
+
+  return <BrowseContainer slides={slides} />;
+}
