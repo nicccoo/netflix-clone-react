@@ -1,6 +1,6 @@
 # Netflix clone
 
-## Clon de Netflix, desarrollado en React, estilizado con styled-components, y alojamiento de datos en firebase
+## Clon de Netflix, desarrollado en React, estilizado con styled-components y alojamiento de datos en firebase
 
 <h3>Este proyecto contiene: </h3>
 
