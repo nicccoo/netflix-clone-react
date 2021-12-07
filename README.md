@@ -29,6 +29,7 @@
     <li>Capacidad de registrarse, ingresar y salir de la cuenta</li>  
     <li>Si el usuario no está en su cuenta o no esta registrado, le es imposible ingresar a la sección /browse </li>
   </ul>
+    <br/>
   <li>Películas y series: </li>
   <ul>
     <li>50 películas y series</li>
