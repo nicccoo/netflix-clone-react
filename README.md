@@ -14,7 +14,7 @@
      <li><strong>Seccion Browse</strong></li>
        <br/>
       <p>La aplicación ofrece un registro verídico con sus respectivas validaciones, con datos alojados y cifrados en firebase.</p>
-     <li>Ruteo completo</li>
+     <li>Ruteo completo (react-router)</li>
      <li>Opción de SignOut</li>
      <li>Capacidad de cambiar de usuario sin necesidad de cerrar la cuenta</li>
      <li>Capacidad de alojar 5 usuarios por cuenta</li>
