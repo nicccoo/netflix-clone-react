@@ -23,6 +23,7 @@
      <li>Busqueda local utilzando la librería fuse.js</li>
      <li>Descripción de películas y series seleccionadas por el usuario</li>
      <li>Modal a forma de ejemplo de previsualizacion</li>  
+     <li>Diseño 100% responsive</li>
   
   </ul>
 
