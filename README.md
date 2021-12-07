@@ -1,4 +1,5 @@
-# Netflix clone
+# Netflix clone ![netflix-icon](https://user-images.githubusercontent.com/73530778/145063396-7238382b-9975-436d-aa39-939573803144.png)
+
 
 ## Clon de Netflix, desarrollado en React, estilizado con styled-components y alojamiento de datos en firebase
 
