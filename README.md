@@ -13,6 +13,7 @@
       <p>La aplicación ofrece un registro verídico con sus respectivas validaciones, con datos alojados y cifrados en firebase.</p>
      <li>Ruteo completo</li>
      <li>Opción de SignOut</li>
+     <li>Capacidad de cambiar de usuario sin necesidad de cerrar la cuenta</li>
      <li>Capacidad de alojar 5 usuarios por cuenta</li>
      <li>Rutas privadas</li>
      <li>Conexión, extracción y filtrado de peliculas y series alojados en firestore (firebase)</li>
