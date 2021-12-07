@@ -50,3 +50,5 @@
 ![modal-previsualitation](https://user-images.githubusercontent.com/73530778/145051666-2077bad6-530f-4397-b689-f5fa7874fabc.jpg)
 
 <strong>Imagenes a modo de ejemplo, por terminos de © Copyright y derechos de autor no es posible deployar la web</strong>
+
+<p>Para correr este proyecto, clona este repositorio y npm start</p>
