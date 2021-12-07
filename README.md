@@ -17,7 +17,7 @@
      <li>Capacidad de alojar 5 usuarios por cuenta</li>
      <li>Rutas privadas</li>
      <li>Conexión, extracción y filtrado de peliculas y series alojados en firestore (firebase)</li>
-     <li>Busqueda local utilzando la libreria fuse.js</li>
+     <li>Busqueda local utilzando la librería fuse.js</li>
      <li>Descripción de películas y series seleccionadas por el usuario</li>
      <li>Modal a forma de ejemplo de previsualizacion</li>  
   
