@@ -16,8 +16,10 @@
      <li>Capacidad de alojar 5 usuarios por cuenta</li>
      <li>Rutas privadas</li>
      <li>Conexión, extracción y filtrado de peliculas y series alojados en firestore (firebase)</li>
+     <li>Busqueda local utilzando la libreria fuse.js</li>
      <li>Descripción de películas y series seleccionadas por el usuario</li>
      <li>Modal a forma de ejemplo de previsualizacion</li>  
+  
   </ul>
 
   <h4>Firebase, usuarios y peliculas:</h4>
@@ -27,7 +29,7 @@
   <ul>
     <li>Autentificación de email y contraseña utilizando la funcionalidad Authentication de firebase</li>
     <li>Capacidad de registrarse, ingresar y salir de la cuenta</li>  
-    <li>Si el usuario no está en su cuenta o no esta registrado, le es imposible ingresar a la sección /browse </li>
+    <li>Si el usuario no está en su cuenta o no esta registrado, le es imposible ingresar a las rutas privadas </li>
   </ul>
     <br/>
   <li>Películas y series: </li>
