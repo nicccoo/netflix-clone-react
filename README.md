@@ -41,6 +41,8 @@
   </ul>
   
 <p>Buen nivel arquitectónico y utilización de buenas practicas</p>
+    <br/>
+<p>Para correr este proyecto, clona este repositorio y npm start</p>
 
 ![home](https://user-images.githubusercontent.com/73530778/145051552-aa38eac5-5de5-4cab-b2a6-4f6abf6bcbce.jpg)
 ![signin-section](https://user-images.githubusercontent.com/73530778/145051620-a4fd3f3c-0331-45c6-8af1-eeba801ebdff.jpg)
@@ -51,4 +53,3 @@
 
 <strong>Imagenes a modo de ejemplo, por terminos de © Copyright y derechos de autor no es posible deployar la web</strong>
 
-<p>Para correr este proyecto, clona este repositorio y npm start</p>
