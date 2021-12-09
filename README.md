@@ -27,7 +27,7 @@
   
   </ul>
 
-  <h4>Firebase, usuarios y peliculas:</h4>
+## Firebase, usuarios y peliculas:
 
   <ul>
   <li>Usuarios:</li>
